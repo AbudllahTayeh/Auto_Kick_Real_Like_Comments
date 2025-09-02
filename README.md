@@ -30,5 +30,4 @@ Follow these steps to get the bot up and running on your system.
 
 First, get the project files onto your machine.
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/AbudllahTayeh/Auto_Kick_Real_Like_Comments.git>
