@@ -10,7 +10,7 @@ It's designed to be highly resilient and efficient, capable of running for exten
 
 ---
 
-### Core Features
+# Core Features
 
 -   **Full Graphical Interface:** No more command lines. Control everything from a clean, intuitive desktop application.
 -   **AI-Powered Conversation:** Leverages the Gemini 1.5 Flash model to generate contextually relevant and casual comments.
@@ -22,39 +22,40 @@ It's designed to be highly resilient and efficient, capable of running for exten
 
 ---
 
-### Setup Guide
+#Setup Guide
 
 Follow these steps to get the bot up and running on your system.
 
-#### 1. Clone the Repository
+1. Clone the Repository
 
 First, get the project files onto your machine.
 ```bash
 git clone <https://github.com/AbudllahTayeh/Auto_Kick_Real_Like_Comments.git>
 ```
-###2. Create a Virtual Environment
+2. Create a Virtual Environment
 It's highly recommended to use a virtual environment to keep dependencies clean.
 ```bash
 # Windows
 python -m venv .venv
 .\.venv\Scripts\activate
 ```
-###3. Install Dependencies
+3. Install Dependencies
 Install all the necessary Python libraries with a single command using the provided requirements.txt file.
 ```bash
 pip install -r requirements.txt
 ```
-###4. Get Your Gemini API Keys
-The bot is powered by the Gemini AI. You will need to generate your own API keys for it to function.
+4. Get Your Gemini API Keys
 
-1.Go to Google AI Studio.
+   The bot is powered by the Gemini AI. You will need to generate your own API keys for it to function.
 
-2.Sign in and click "Get API key" -> "Create API key in new project".
+    1.Go to Google AI Studio.
 
-3.Copy the generated key.
+    2.Sign in and click "Get API key" -> "Create API key in new project".
+
+    3.Copy the generated key.
 
 For best results, create multiple Google accounts to generate several API keys. This allows the bot's API key rotation feature to work effectively.
-###How to Use
+#How to Use
 Run the Application:
 ```bash
 python kick_bot_gui.py
