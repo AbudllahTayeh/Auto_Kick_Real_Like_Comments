@@ -2,8 +2,7 @@
 
 > **Disclaimer:** This project is for educational purposes only. It was created to explore browser automation, GUI development with Tkinter, and integration with large language models. The API keys included in the source code have been invalidated and **will not work**. You must obtain your own API keys to run this application. The author is not responsible for how this code is used.
 
-![Kick Bot GUI]
-
+ 
 This is an advanced, AI-powered chat bot for the Kick streaming platform, controlled by a user-friendly graphical interface (GUI). The bot uses Google's Gemini AI to watch the live chat of any streamer, understand the context of the conversation, and generate unique, human-like comments in real-time.
 
 It's designed to be highly resilient and efficient, capable of running for extended periods by intelligently managing API keys and batching requests.
